@@ -1,4 +1,6 @@
-# MicroEvent.js
+# MicroEvent.js / es6
+
+> Planning to convert this useful library to use es6 classes, because hey why not.
 
 _MicroEvent.js_ is a event emitter library which provides the
 [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to javascript objects.
